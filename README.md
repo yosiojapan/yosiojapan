@@ -8,7 +8,7 @@ Mayaを触る機会が少なくなりそうなのでMELをまとめておく。
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yosiojapan&layout=compact&langs_count=8&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
-MEL language statistics are not showing.
+Assume TypeScript since there is no MEL.
 
 <!--
 **yosiojapan/yosiojapan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
