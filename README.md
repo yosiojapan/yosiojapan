@@ -2,13 +2,17 @@
 
 Mayaを触る機会が少なくなりそうなのでMELをまとめておく。
 
+memo に mGear のメモを置いておきます。調査途中で、放置。
+
 ![Static Badge](https://img.shields.io/badge/Maya-MEL-orange)
+![Static Badge](https://img.shields.io/badge/Maya-python-blue)
+![](https://komarev.com/ghpvc/?username=yosiojapan-github-username)
+![](https://img.shields.io/github/downloads/yosiojapan/s_tool/total)
 
-![Static Badge](https://img.shields.io/badge/Maya-python-blue) Python is studying
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yosiojapan&layout=compact&langs_count=8&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+Python is studying
 
 Assume TypeScript since there is no MEL.
+
 
 <!--
 **yosiojapan/yosiojapan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
