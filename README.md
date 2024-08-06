@@ -7,7 +7,6 @@ memo に mGear のメモを置いておきます。調査途中で、放置。
 ![Static Badge](https://img.shields.io/badge/Maya-MEL-orange)
 ![Static Badge](https://img.shields.io/badge/Maya-python-blue)
 ![](https://komarev.com/ghpvc/?username=yosiojapan-github-username)
-![](https://img.shields.io/github/downloads/yosiojapan/s_tool/total)
 
 Python is studying
 
