@@ -6,8 +6,9 @@ memo に mGear のメモを置いておきます。調査途中で、放置。
 
 ![Static Badge](https://img.shields.io/badge/Maya-MEL-orange)
 ![Static Badge](https://img.shields.io/badge/Maya-python-blue)
+<!--
 ![](https://komarev.com/ghpvc/?username=yosiojapan-github-username)
-
+-->
 Python is studying
 
 Assume TypeScript since there is no MEL.
