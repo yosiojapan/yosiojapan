@@ -11,7 +11,7 @@ memo に mGear のメモを置いておきます。調査途中で、放置。
 -->
 Python is studying
 
-Assume TypeScript since there is no MEL.
+No MEL, use TypeScript instead.
 
 
 <!--
