@@ -11,9 +11,6 @@ memo に mGear のメモを置いておきます。調査途中で、放置。
 -->
 Python is studying
 
-No MEL, use TypeScript instead.
-
-
 <!--
 **yosiojapan/yosiojapan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
